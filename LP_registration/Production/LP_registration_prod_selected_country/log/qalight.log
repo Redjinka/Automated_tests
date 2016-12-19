@@ -1,0 +1,23 @@
+2016-30-09 12:38:32   INFO [pages.RegistrationPage] : Page is opened
+2016-30-09 12:38:32   INFO [pages.RegistrationPage] : Russia is inputed and selected from DropDovn list
+2016-30-09 12:38:32   INFO [pages.RegistrationPage] : Text field is cleared
+2016-30-09 12:38:32   INFO [pages.RegistrationPage] : Value Test_lead_lp is set 
+2016-30-09 12:38:32   INFO [pages.RegistrationPage] : Phone is generated
+2016-30-09 12:38:32   INFO [pages.RegistrationPage] : Value 631817 is set 
+2016-30-09 12:38:32   INFO [pages.RegistrationPage] : Email is generated
+2016-30-09 12:38:32   INFO [pages.RegistrationPage] : Value random_f441a506-84d9-421a-92e1-026c8fdd4bdb@test.qa is set 
+2016-30-09 12:38:33   INFO [pages.RegistrationPage] : Click buttonBy.xpath: .//*[@id='olgs_submit']
+2016-30-09 12:38:37  ERROR [pages.RegistrationPage] : Error: Needed element is not found By.xpath: //*[@class='btn_big']
+2016-30-09 12:38:37  ERROR [pages.RegistrationPage] : Note! Lead was registered from invalid country
+2016-30-09 12:39:47   INFO [pages.RegistrationPage] : Page is opened
+2016-30-09 12:39:47   INFO [pages.RegistrationPage] : Russia is inputed and selected from DropDovn list
+2016-30-09 12:39:47   INFO [pages.RegistrationPage] : Text field is cleared
+2016-30-09 12:39:47   INFO [pages.RegistrationPage] : Value Test_lead_lp is set 
+2016-30-09 12:39:47   INFO [pages.RegistrationPage] : Phone is generated
+2016-30-09 12:39:47   INFO [pages.RegistrationPage] : Value 4377726 is set 
+2016-30-09 12:39:47   INFO [pages.RegistrationPage] : Email is generated
+2016-30-09 12:39:47   INFO [pages.RegistrationPage] : Value random_4410a430-4e83-464e-938d-0a9199da3fa6@test.qa is set 
+2016-30-09 12:39:47   INFO [pages.RegistrationPage] : Click buttonBy.xpath: .//*[@id='olgs_submit']
+2016-30-09 12:39:59   INFO [pages.RegistrationPage] : Needed element is found By.xpath: //*[@class='btn_big']
+2016-30-09 12:39:59   INFO [pages.RegistrationPage] : Registration completed 
+2016-30-09 12:40:01   INFO [pages.RegistrationPage] : Browser is closed
